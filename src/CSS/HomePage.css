@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
+
+img {
+    height: 350px;
+    width: 350px;
+
+}
+body {
+  background-color: rgba(22,20,24,0.8);
+  
+}
+button{
+    background-color:rgb(247, 189, 75);
+    text-align: center;
+    color: #FFFFC7;
+    border-radius: 12px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Crete Round', serif;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 37%;
+    width: 350px;
+    float:left;
+    margin-bottom: 10px;
+}
+a:link {
+    text-decoration: none;
+    color:#FFFFC7;
+}
+a:visited {
+  color:#FFFFC7;
+}
+h1{
+  color: #67b9fc;
+  font-size: 3em;
+  font-family:'Courgette', cursive;
+}
+ul{
+  list-style-type: none;
+  font-size: 20px;
+  color: #FFFFC7;
+}
+.dogBreeds {
+  color:rgb(247, 189, 75);
+  font-family: 'Crete Round', serif;
+  font-size: 20px;
+}
+.question{
+  color: #67b9fc;
+  font-size: 30px;
+  font-family:'Courgette', cursive;
+}
+.score{
+  float: right;
+  overflow: auto;
+  position: absolute;
+  right: 10px;
+  width: 300px;
+  padding: 10px;
+  background-color:#4df099;
+  color: white;
+  font-size: 20px;
+font-weight: bold; 
+font-family: 'Crete Round', serif;
+}
+.scoreNum{
+  float: right;
+  overflow: auto;
+  position: absolute;
+  right: 10px;
+  width: 300px;
+  padding: 10px;
+  background-color:#4df099;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  color:white;
+  font-size: 30px;
+  font-weight: bold; 
+  font-family: 'Crete Round', serif;
+}
+.score2{
+  float: right;
+  overflow: auto;
+  position: absolute;
+  right: 10px;
+  width: 300px;
+  padding: 10px;
+  background-color:#4df099;
+  color: white;
+  font-size: 20px;
+font-weight: bold; 
+font-family: 'Crete Round', serif;
+margin-top: 400px;
+}
+.scoreNum2{
+  float: right;
+  overflow: auto;
+  position: absolute;
+  right: 10px;
+  width: 300px;
+  padding: 10px;
+  background-color:#4df099;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  color:white;
+  font-size: 30px;
+  font-weight: bold; 
+  font-family: 'Crete Round', serif;
+  margin-top: 430px;
+}
+.questionBtn {
+  background-color:rgb(247, 189, 75);
+  text-align: center;
+  color: #FFFFC7;
+  border-radius: 12px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Crete Round', serif;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-left: 37%;
+  width: 350px;
+  float:left;
+  margin-bottom: 10px;
+  margin-top: 60px;
+
+}
+.gameT{
+  color: rgb(247, 189, 75);
+  font-family: 'Crete Round', serif;
+}
